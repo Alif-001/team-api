@@ -343,11 +343,71 @@
         "key":35 ,
         "title": "Adobe Acrobat Pro",
         "img": "https://i.ibb.co/3r5rDzs/71-hmk-Eklq-L-AC-SL1500.jpg",
-        "description": "EDIT PDF FILES Change text and images. Add comments and highlights. Rotate, crop, and insert pages to PDF files. CONVERT Turn your document into a PDF or move between file types. EASILY SHARE PDFs Now you can send a link to your PDF with a single click in Acrobat Reader, instead of sending email attachments. GUIDED ACTIONS Standardize your tasks with guided actions. COMPARE FILES Acrobat with compare different versions of a document to see what's changed.",
+        "description": "EDIT PDF FILES Change text and images. Add comments and highlights. Rotate, crop, and insert pages to PDF files. CONVERT Turn your document into a PDF or move between file types. EASILY SHARE PDFs Now you can send a link to your PDF with a single clck in Acrobat Reader, instead of sending email attachments. GUIDED ACTIONS Standardize your tasks with guided actions. COMPARE FILES Acrobat with compare different versions of a document to see what's changed.",
         "rating": 3.5,
         "price": 448.55,
         "review":56789098 ,
         "Category": "Software"
+    },
+    {
+        "key":36 ,
+        "title": "Star Wars The Black Series Gaming Greats ",
+        "img": "https://i.ibb.co/7r4H99w/71wz-NWx-Jv-S-AC-SL1500.jpg",
+        "description": "Star Wars The Black Series Gaming Greats 6 Inch Action Figure Box Art Exclusive - Imperial Rocket Trooper Star Wars Hasbro 6 Inch.",
+        "rating": 2.5,
+        "price": 29.88,
+        "review": 8763,
+        "Category": "action figures"
+    },
+    {
+        "key": 37,
+        "title": "Avengers Marvel Legends Series Endgame",
+        "img": "https://i.ibb.co/87bnHQL/81-Cct-Tjvn-DL-AC-SL1500.jpg",
+        "description": "6-Inch-scale collectible iron PATRIOT figure – fans, collectors, and kids alike can enjoy this 6-inch-scale iron PATRIOT figure, inspired by the character from Avengers: Endgame and the Marvel Cinematic universe. Marvel movie-inspired design – Iron PATRIOT fan figure with premium design, detail, and articulation for high pose ability and display in a Marvel collection. Premium articulation and detailing – the quality 6-inch legends series iron PATRIOT figure features multiple points of articulation and is a great addition to any action figure collection. Thor build-a-figure parts - includes two head build-a-figure pieces. Collect figures in this Marvel Legends series build-a-figure collection to assemble an impressive Thor build-a-figure! Additional figures each sold separately. Subject to availability. Marvel universe in 6-inch scale - look for other Hasbro Marvel Legends series figures (each sold separately) with comic- and movie-inspired characters, including Captain America, Iron Man mark LXXXV, Marvel vision, heimdall, and Marvel Valkyrie. (Additional figures each sold separately. Subject to availability.)",
+        "rating": 3.5,
+        "price": 55.59,
+        "review":8525 ,
+        "Category": "action figures"
+    },
+    {
+        "key":38 ,
+        "title": "McFarlane - Witcher Gaming 7 Figures 1 - Eredin Breacc Glas",
+        "img": "https://i.ibb.co/HXDLdcx/71p-RLVnd6h-L-AC-SL1500.jpg",
+        "description": "Incredibly detailed 7” scale figure based on The Witcher 3: Wild Hunt Eredin is featured in his black steel armor and helm Designed with Ultra Articulation with up to 22 moving parts for full range of posing and play Includes Eredin’s sword and base Figure is showcased in Witcher-themed window box packaging Collect all Witcher Figures! Geralt of Rivia 7 Action Figure and Geralt of Rivia 12 Deluxe Figure. Figures Sold Separately.",
+        "rating": 5,
+        "price":45.55 ,
+        "review":56789 ,
+        "Category": "action figures"
+    },
+    {
+        "key": 39,
+        "title": "McFarlane Toys The Witcher Geralt of Rivia",
+        "img": "https://i.ibb.co/T1M0tnb/71xw-KRpj-U7-L-AC-SL1500.jpg",
+        "description": "Incredibly detailed 12” scale figure based on The Witcher 3: Wild Hunt Geralt is featured wearing his signature Kaer Morhen armor Designed with Ultra Articulation with up to 22 moving parts for full range of posing and play Includes Geralt’s silver and steel swords with sheaths, monster head trophies, and base Figure is showcased in Witcher-themed window box packaging Collect all Witcher Figures! Geralt of Rivia and Eredin Breace Glas 7 Action Figures. Figures Sold Separately.",
+        "rating": 4.5,
+        "price": 24.55,
+        "review": 4534,
+        "Category": "action figures"
+    },
+    {
+        "key":40 ,
+        "title": "DC Multiverse Batman ",
+        "img": "https://i.ibb.co/KsDjmRS/61-Vy-Hvt-B-KL-AC-SL1500.jpg",
+        "description": "Incredibly detailed 7” scale figures based off the DC Multiverse Batman inspired from the mind of Todd McFarlane, to create a new never before seen before version of Batman Designed with Ultra Articulation with up to 22 moving parts for full range of posing and play Featured with a Cape and Cowl Comes with two swords, and a base Includes collectable art card with Todd McFarlane Batman artwork on front and character biography on the back Showcased on DC themed window box packaging Collect all McFarlane Toys DC Multiverse Action Figures! Firgures Sold Separately.",
+        "rating": 5,
+        "price": 45.5,
+        "review": 43433,
+        "Category": "action figures"
+    },
+    {
+        "key": 41,
+        "title": "POP Funko Star Wars: The Mandalorian",
+        "img": "https://i.ibb.co/vHbH50J/5176r-ALHhg-S-AC-SL1300.jpg",
+        "description": "Package weight : 0.25 Lbs Stylized collectable stands 3 ¾ inches tall, perfect for any The Mandalorian fan! Product type : Toys and Games Country of origin : Viet Nam Number of players: 1.",
+        "rating": 5,
+        "price": 15.5,
+        "review":4534 ,
+        "Category": "action figures"
     },
     {
         "key": ,
@@ -359,4 +419,5 @@
         "review": ,
         "Category": ""
     },
+   
 ]
