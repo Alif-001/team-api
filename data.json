@@ -1,5 +1,4 @@
 [
-    // Electronics
     {
         "key": 1,
         "title": "Oculus Quest",
@@ -226,39 +225,129 @@
         "img": "https://i.ibb.co/30XJwrw/81-KOEh2-NRVL-AC-SL1500.jpg",
         "description": "AMD Ryzen 7 3700X 8-Core 16-Thread 3.6 GHz (4.4 GHz Max Boost) CPU | 1TB SSD – Up to 30x faster than traditional HDD    GeForce RTX 3060 12GB GDDR6 Graphics Card (Brand May Varies) | 16GB DDR4 3000MHz Gaming Memory with Heat Spreaders | Windows 10 Home 64-bit 802.11AC Wi-Fi | No Bloatware | 1 x DisplayPort 1.4, 1 x HDMI Guaranteed, additional ports may vary | HD Audio and Mic | Free Gaming Keyboard and Mouse | Minimum 6 x USB Ports including USB 2.0, 3.0, or higher    3 x RGB RING Fans for Maximum Air Flow | Powered by 80 Plus Gold Certified 600 Watt Power Supply | Skytech Archangel Gaming Case with Tempered Glass - White | 1 Year Warranty on Parts and Labor | Lifetime Free Technical Support | Assembled in the USA    This powerful gaming PC is capable of running all your favorite games such as Call of Duty Warzone, Fornite, Escape from Tarkov, Grand Theft Auto V, World of Warcraft, League of Legends, Apex Legends, Roblox, PLAYERUNKNOWN’s Battlegrounds, Overwatch, Counter-Strike: Global Offensive, Battlefield V, Minecraft, The Division 2, and more at High to Ultra settings, crisp 1440p Quad HD resolution and smooth 60+ FPS game play.",
         "rating": 5,
-        "price":2055.52 ,
-        "review":9521125 ,
+        "price": 2055.52,
+        "review": 9521125,
         "Category": "Computers"
     },
     {
         "key": 24,
         "title": "CHUWI HeroBox Pro Mini PC",
-        "img": "",
-        "description": "",
+        "img": "https://i.ibb.co/bKLddgg/41j-GCa-V7-Ef-L-AC-SL1000.jpg",
+        "description": "Excellent CPU Performance - CHUWI Herobox Pro Windows 10 Mini PC equips with 64-bit windows 10 Intel Jasper LakeN4500 Dual-Core processor.High-performance processor is more responsive when loading apps, opening files. 10nm process and 6W TDP design ensure it works well with NAS, HTPC and small servers with relatively low power consumption.    Faster Running Speed -This Mini Desktop PC equip with 256GB SSD( Support upgrade to 2TB ) and 2.5 inch HDD can fully cover your storage needs. 8GB LPDDR4 memory improves 50% transmission frequency.which enables snappy and seamless switch between different tasks. Dual-band wifi (802.11ac) supports 2.4G/5G frequency band, 5G delivers ultimate fast internet speed,while 2.4G goes for more stable onnection. with RJ45 Gigabit Ethernet which can transfer data at more than 1000Mbps.    Great Home Theater PC - The mini desktop computer adopt Intel 11th UHD Graphics comes with 16 execution units clock up to 750Mhz , which had 4K ultra high definition streaming capability giving you a best-in-class television experience with true-to-life picture quality, which can be used as a media center to enjoy TV shows or games.The ability to connect with 2 monitors with HD2.0 & VGA out greatly improves work efficiency.    Scientific Design, Effective Heat Dissipation - Comes with a wider air intake area and large diameter fan which brings excellent cooling to the whole machine.keeps mini box stays efficient and stable even after long period of work. 7.4*5.4*1.5 inches compact body only 0.97L, 90% lighter and space-saving than traditional PC,support to installed on back of the monitor or TV via VESA international standard interface to make it an All-In-One PC.    Multi Interface & Chuwi SERVICE - This mirco desktop computer featured with faster speed Type-C slot, 2*USB 3.0, 2*USB 2.0 can guarantee your everyday life needs and explores more possibilities. 1 year warranty and 24 hours customer service ,We Offer Lifetime Technical Support (please contact us Via Amazon if you have any questions about our Mini PC Box)",
         "rating": 5,
-        "price": ,
-        "review": ,
+        "price": 5232.55,
+        "review": 987654,
         "Category": "Computers"
     },
     {
         "key": 25,
-        "title": "",
-        "img": "",
-        "description": "",
+        "title": "Mini PC Celeron 3060(up to 2.48GHz)",
+        "img": "https://i.ibb.co/cCQGwvB/619zq-Fqcb-TL-AC-SL1500.jpg",
+        "description": "This small mini pc powered by Celeron 3060 Processor. It's base operating frequency 1.6 GHz/s rising up to 2.48GHz in burst mode, pre-installed with Windows 10(64bit), supports latest wireless connectivity 802.11ac Dual-Band Wi-Fi, Bluetooth 4.2, LAN 1000Mbps.Large Expandable Storage    B1 4GB RAM+64GB eMMC mini computer supports DIY expand the additional storage with M.2_2280 SATA SSD (up to 1TB, SSD is not included), or a mobile hard disk box via USB3.0 interface. Dual Display & HD graphic The mini desktop computer supports HD and 4K (3840 x 2160) ultra-high-definition content, you can enjoy 4K Web surfing, video playback, watching TV, home theater, and enjoy the entertainment with your family. HDMI/VGA Port easily connecting two monitors, reduce waiting time, efficiency doubled. Cooler & Quieter Work This micro pc draws under 8Watts of power, the smart fan design in the thin and light body to make the heat dissipation more efficient, creating cooler, quieter working environments. Durable and Reliable Warranty Each product includes LIFETIME technical support, a worry-free 30-day return and 7 days/ 24 hours serving,12 months of warranty. If you have any questions, please don’t hesitate to contact us and we are 100% guaranteed to solve your problem.",
         "rating": 5,
-        "price": ,
-        "review": ,
+        "price": 852.55,
+        "review": 8956325,
         "Category": "Computers"
     },
     {
         "key": 26,
-        "title": "",
-        "img": "",
-        "description": "",
+        "title": "Thermaltake Glacier 360 Liquid-Cooled PC ",
+        "img": "https://i.ibb.co/ngX74mD/71ay-GFDy-V4-L-AC-SL1200.jpg",
+        "description": "AMD Ryzen 5 5600X CPU Watercooled, AMD B550 Chipset ATX motherboard, 16GB ToughRam DDR4 RGB, 1TB NVMe M.2, WiFi, Windows 10 Home NVIDIA GeForce RTX 3060 Closed Loop Liquid Cooling with 240mm Radiator and 3 ARGB Fan 1x USB 3.0, 2x USB 2.0, 1x Headphone, 1x Mic Ports Swing door tempered glass with magnetic mounting.",
         "rating": 5,
-        "price": ,
-        "review": ,
+        "price": 5165.51,
+        "review": 7845653689,
         "Category": "Computers"
+    },
+    {
+        "key":27 ,
+        "title": "TurboTax Home & Business 2021 Tax Software",
+        "img": "https://i.ibb.co/6gnTPs5/61zkaf-TI-L-AC-SL1500.jpg",
+        "description": "Recommended if you are self-employed, an independent contractor, freelancer, small business owner, sole proprietor, or consultant Includes 5 federal e-files and 1 State via download ($40 value*). State e-file sold separately. Free U.S.-based product support. Get your personal and self-employed taxes done right Boost your bottom line with industry-specific small business tax deductions Up-to-date with the latest tax laws Easily import W-2s, investment & mortgage information from participating companies (may require free Intuit account) Creates W-2s and 1099 tax forms for employees & contractors Simplified asset depreciation and reporting Audit Risk Meter helps you reduce the chance of an audit.",
+        "rating": 5,
+        "price":69.69 ,
+        "review": 51615621,
+        "Category": "Software"
+    },
+    {
+        "key":28 ,
+        "title": "Roxio Easy VHS to DVD 3 Plus",
+        "img": "https://i.ibb.co/7V2t22d/61a-CCj55-K7-L-AC-SL1000.jpg",
+        "description": "Convert your VHS tapes to DVD or digital to enhance and preserve your home movies Capture analog video directly from your camcorder or VCR and burn to DVD or convert to popular digital formats to share freely across devices Trim video, make quick edits, enhance color, add transitions, reduce noise and stabilize old footage to breathe new life into your old videos Complete your video experience by selecting from creative, customizable DVD menu templates, or creating personalized disc labels Get 2 DVDs for your first projects: An Amazon exclusive extra.",
+        "rating": 5,
+        "price": 74.55,
+        "review":85615656,
+        "Category": "Software"
+    },
+    {
+        "key":29 ,
+        "title": "Adobe Photoshop Elements & Premiere Elements",
+        "img": "https://i.ibb.co/WV2XwDj/71l-Yrhss-FZL-AC-SL1500.jpg",
+        "description": "ADOBE SENSEI AI TECHNOLOGY: Automated options do the heavy lifting so you can instantly turn photos into art, warp photos to fit any shape, reframe your video subjects, and more. TAKE YOUR PHOTOS TO A NEW LEVEL: Add moving overlays or 3D camera motion to photos and save as MP4s for easy sharing on social. 87 GUIDED EDITS: Create the perfect pet pic; extend, remove, or replace photo backgrounds; add fun animated overlays to your videos; bring out details in video shadows and highlights; and more. CRAFT PERSONALIZED CREATIONS: Dynamic photo and video slideshows with new styles, inspirational quote graphics, and animated social posts. EASY NAVIGATION: Updated software makes editing, organizing, and exporting your photos and videos effortless.",
+        "rating": 4.5,
+        "price":99.99 ,
+        "review":7451556 ,
+        "Category": "Software"
+    },
+    {
+        "key": 30,
+        "title": "Bitdefender Total Security 2022 ",
+        "img": "https://i.ibb.co/s3crQtP/41ma-c-owl-L-AC.jpg",
+        "description": "SPEED-OPTIMIZED, CROSS-PLATFORM PROTECTION: World-class antivirus security and cyber protection for Windows (Windows 7 with Service Pack 1, Windows 8, Windows 8.1, and Windows 10), Mac OS (macOS X Yosemite 10.10 or later), iOS (11.2 or later), and Android (5.0 or later). Organize and keep your digital life safe from hackers SAFE ONLINE BANKING: A unique, dedicated browser secures your online transactions; Our Total Security product also includes 200MB per day of our new and improved Bitdefender VPN ADVANCED THREAT DEFENSE: Real-Time Data Protection, Multi-Layer Malware and Ransomware Protection, Social Network Protection, Game/Movie/Work Modes, Microphone Monitor, Webcam Protection, Anti-Tracker, Phishing, Fraud, and Spam Protection, Password Manager, File Shredder, Parental Controls, and more NO CREDIT CARD REQUIRED: Subscription does not automatically renew (unless your account was previously set up to do so) ECO-FRIENDLY PACKAGING: Your product-specific code is printed on a card and shipped inside a protective cardboard sleeve. Simply open packaging and scratch off security ink on the card to reveal your activation code. No more bulky box or hard-to-recycle discs.",
+        "rating": 3.5,
+        "price": 57.99,
+        "review": 84848898,
+        "Category": "Software"
+    },
+    {
+        "key": 31,
+        "title": "Norton 360 Premium",
+        "img": "https://i.ibb.co/4JFVhSg/81cz60-DSGIL-AC-SL1500.jpg",
+        "description": "ONGOING PROTECTION Install protection for up to 10 PCs, Macs, iOS & Android devices - A card with product key code will be mailed to you (select ‘Download’ option for instant activation code) REAL-TIME THREAT PROTECTION Advanced security protects against existing and emerging malware threats, including ransomware and viruses, and it won’t slow down your device performance SECURE VPN Browse anonymously and securely with a no-log VPN while using public Wi-Fi Add bank-grade encryption to help keep your information like passwords and bank details secure and private DARK WEB MONITORING will monitor and notify you if we find your personal information on the Dark Web 75GB SECURE PC CLOUD BACKUP store and help protect important files as a preventative measure to data loss due to hard drive failures, stolen devices and even ransomware PRE-PAID SUBSCRIPTION A payment method must be stored in your Norton account to activate You won’t be charged until the prepaid term ends For new Norton subscriptions only at an introductory price AUTO-RENEWAL Never have a service disruption since this subscription auto-renews annually If you do not wish to renew, you can cancel in your Norton account anytime",
+        "rating": 2.5,
+        "price":29.55 ,
+        "review": 4534534,
+        "Category": "Software"
+    },
+    {
+        "key": 32,
+        "title": "Window 10 Pro USB",
+        "img": "https://i.ibb.co/wrX1jg0/614-Bq-NZw-EKL-AC-SL1500.jpg",
+        "description": "Windows 10 Pro. Full Retail Version. USB Flash and License key. You can choose 32- or 64- bit version during installation. Minimum hard disk space: Up to 20 GB available hard disk space, Minimum RAM: 1 GB RAM for 32-bit; 2 GB for 64-bit, Minimum processor speed: 1 GHz., Language version: ENG, Media type: USB Flash.",
+        "rating": 5,
+        "price":46.52 ,
+        "review": 554563,
+        "Category": "Software"
+    },
+    {
+        "key": 33,
+        "title": "OfficeSuite Home & Business",
+        "img": "https://i.ibb.co/Sw41BM4/61pw7xa-Zkr-L-AC-SL1500.jpg",
+        "description": "Create, Edit and Style DOCUMENTS, SPREADSHEETS & PRESENTATIONS – all the features that you need to get work done. Compatibility with all popular file formats - OPEN, EDIT & CREATE new and existing documents, spreadsheets and presentations. Included PDF functions - Fill & Sign Forms, Annotate, Password Protect and use Digital signatures. Mail & Calendar Included - Manage multiple Email accounts and Calendars. LIFETIME License for 1 Windows PC or Laptop. This software is not a Microsoft product!",
+        "rating": 5,
+        "price":99.55,
+        "review": 458674145,
+        "Category": "Software"
+    },
+    {
+        "key": 34,
+        "title": "McAfee Total Protection ",
+        "img": "https://i.ibb.co/pnnpyzn/61e-My-J7-Xx-NL-AC-SL1427.jpg",
+        "description": "AWARD WINNING ANTIVIRUS: rest easy knowing McAfee’s protecting you from the latest threats PROTECT YOUR IDENTITY:  We'll monitor your life online, from bank account numbers, credit cards, to your emails and more. BROWSE CONFIDENTLY AND PRIVATELY: Secure VPN keeps your info safe from prying eyes SEE HOW SAFE YOU ARE BEING ONLINE: Get your personalized protection score, identify weaknesses and get help to fix them. BANK, SHOP and CONNECT WORRY-FREE: be warned about risky websites before you click SECURE YOUR ACCOUNTS: Generate and store complex passwords with a password manager PHYSICAL KEY CARD DELIVERY: Product with dlownload code and activation instructions will be shipped to your address.",
+        "rating": 2.5,
+        "price": 53.5,
+        "review":456789 ,
+        "Category": "Software"
+    },
+    {
+        "key":35 ,
+        "title": "Adobe Acrobat Pro",
+        "img": "https://i.ibb.co/3r5rDzs/71-hmk-Eklq-L-AC-SL1500.jpg",
+        "description": "EDIT PDF FILES Change text and images. Add comments and highlights. Rotate, crop, and insert pages to PDF files. CONVERT Turn your document into a PDF or move between file types. EASILY SHARE PDFs Now you can send a link to your PDF with a single click in Acrobat Reader, instead of sending email attachments. GUIDED ACTIONS Standardize your tasks with guided actions. COMPARE FILES Acrobat with compare different versions of a document to see what's changed.",
+        "rating": 3.5,
+        "price": 448.55,
+        "review":56789098 ,
+        "Category": "Software"
     },
     {
         "key": ,
