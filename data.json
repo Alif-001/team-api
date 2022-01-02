@@ -1,0 +1,133 @@
+[
+    // Electronics
+    {
+        "key": 1,
+        "title": "Oculus Quest",
+        "img": "https://i.ibb.co/xzQ1J1Y/615-Ya-Ai-A-ML-SL1500.jpg",
+        "description": "Next-level Hardware - Make every move count with a blazing-fast processor and our highest-resolution display All-In-One Gaming - With backward compatibility, you can explore new titles and old favorites in the expansive Quest content library Immersive Entertainment - Get the best seat in the house to live concerts, groundbreaking films, exclusive events and more Easy Setup - Just open the box, set up with the smartphone app and jump into VR. No PC or console needed. Requires wireless internet access and the Oculus app (free download) to set up device",
+        "rating": 5,
+        "price": 2525.67,
+        "review": 25453633,
+        "Category": "Electronics"
+    },
+    {
+        "key": 2,
+        "title": "Apple AirPods",
+        "img": "https://i.ibb.co/xzQ1J1Y/615-Ya-Ai-A-ML-SL1500.jpghttps://i.ibb.co/jDxYvfx/7120-Gg-UKj3-L-AC-SL1500.jpg",
+        "description": "Quick access to Siri by saying  Hey Siri. More than 24 hours total listening time with the Charging Case Effortless setup, in-ear detection, and automatic switching for a magical experience Easily share audio between two sets of AirPods on your iPhone, iPad, iPod touch, or Apple TV ",
+        "rating": 2.5,
+        "price": 999.35,
+        "review":34536546 ,
+        "Category": "Electronics"
+    },
+    {
+        "key": 3,
+        "title": "Apple Pencil",
+        "img": "https://i.ibb.co/PCznxfq/41-S3-MKU9-Tj-L-AC-SL1024.jpg",
+        "description": "Compatible with iPad mini (6th generation), iPad Air (4th generation), iPad Pro 12.9-inch (3rd, 4th, and 5th generations), iPad Pro 11-inch (1st, 2nd, and 3rd generations) .Apple Pencil (2nd generation) brings your work to life. With imperceptible lag, pixel-perfect precision, and tilt and pressure sensitivity, it transforms into your favorite creative instrument, your paint brush, your charcoal, or your pencil. It makes painting, sketching, doodling, and even note-taking better than ever. It magnetically attaches to iPad mini (6th generation), iPad Pro and iPad Air, charges wirelessly, and lets you change tools with a simple double tap.",
+        "rating": 1.5,
+        "price": 2345.99,
+        "review":2542534 ,
+        "Category": "Electronics"
+    },
+    {
+        "key": 4,
+        "title": "Apple 20W USB-C Power Adapter",
+        "img": "https://i.ibb.co/phVxY90/41i-Wog-Jn-ZQL-AC-SL1000.jpg",
+        "description": "The Apple 20W USB‑C Power Adapter offers fast, efficient charging at home, in the office, or on the go. While the power adapter is compatible with any USB‑C enabled device, Apple recommends pairing it with the 11-inch iPad Pro and 12.9-inch iPad Pro (3rd generation) for optimal charging performance. You can also pair it with iPhone 8 or later to take advantage of the fast-charging feature. Charging cable sold separately.",
+        "rating": 5,
+        "price": 321.33,
+        "review": 11324,
+        "Category": "Electronics"
+    },
+    {
+        "key": 5,
+        "title": "Seagate Portable 2TB External Hard Drive Portable HDD",
+        "img": "https://i.ibb.co/LQqzWYz/81tj-Lks-Kix-L-AC-SL1500.jpg",
+        "description": "Easily store and access 2TB to content on the go with the Seagate Portable Drive, a USB external hard drive Designed to work with Windows or Mac computers, this external hard drive makes backup a snap just drag and drop To get set up, connect the portable hard drive to a computer for automatic recognition no software required This USB drive provides plug and play simplicity with the included 18 inch USB 3.0 cable",
+        "rating": 2.6,
+        "price": 4446.44,
+        "review":646533 ,
+        "Category": "Electronics"
+    },
+    {
+        "key": 6,
+        "title": "Beats Studio Buds – True Wireless Noise Cancelling Earbuds",
+        "img": "https://i.ibb.co/qnNqxsN/51b-RSWr-Ec7-S-AC-SL1500.jpg",
+        "description": "Custom acoustic platform delivers powerful, balanced sound Control your sound with two distinct listening modes: Active Noise Cancelling (ANC) and Transparency mode Three soft eartip sizes for a stable and comfortable fit while ensuring an optimal acoustic seal Up to 8 hours of listening time (up to 24 hours combined with pocket-sized charging case) Industry-leading Class 1 Bluetooth for extended range and fewer dropouts High-quality call performance and voice assistant interaction via built-in microphones IPX4-rated sweat and water resistant wireless earbuds Beats wireless headphones and earphones are compatible with Apple and Android devices What’s in the Box – Beats Studio Buds True Wireless Noise Cancelling Earphones, charging case, eartips with three size options, USB-C to USB-C charging cable, Quick Start Guide, Warranty card (USB-C power adapter sold separately)",
+        "rating": 3.3,
+        "price": 453.44,
+        "review":34533 ,
+        "Category": "Electronics"
+    },
+    {
+        "key": 7,
+        "title": "Nintendo Switch",
+        "img": "https://i.ibb.co/bm9s5Lk/61-Pbl-Ynts-L-AC-SL1500.jpg",
+        "description": "3 Play Styles: TV Mode, Tabletop Mode, Handheld Mode 6.2-inch, multi-touch capacitive touch screen 4.5-9+ Hours of Battery Life will vary depending on software usage conditions Connects over Wi-Fi for multiplayer gaming; Up to 8 consoles can be connected for local wireless multiplayer Model number: HAC-001(-01)",
+        "rating": 4.5,
+        "price": 6454.56,
+        "review": 875564,
+        "Category": "Electronics"
+    },
+    {
+        "key": 8,
+        "title": "Roku Express",
+        "img": "https://i.ibb.co/VYFnr4d/71-E4-Inwfc-PL-AC-SL1500.jpg",
+        "description": "Brilliant 4K picture quality: Stream in HD, 4K, and HDR with sharp resolution and vivid color optimized for your TV Smooth wireless streaming: Now featuring dual-band wireless, enjoy a smooth streaming experience with faster wireless performance, even with multiple devices connected to your network No more juggling remotes: Power up your TV, adjust the volume, mute, and control your Roku device all with one remote Convenient voice control: Use your voice to quickly search across channels, turn captions on, and more in a touch Upgrade to Roku streaming: All of your favorite channels, like HBO Max, Netflix, and Prime Video, are front and center on the customizable home screen, plus your device is always getting better with automatic updates Simple setup: It’s easy to get started with everything you need included in the box, including a Premium HDMI Cable—just plug it in and connect to the internet Save money, stream big: Watch what you love, including a massive selection of free and live TV, including 200+ Live TV channels free on The Roku Channel—it’s great for streaming TV and cutting cable Works with popular voice assistants: Enjoy easy voice control with Siri, Alexa, or Hey Google Share it with Apple AirPlay: Effortlessly share videos, photos, music, and more from your Apple devices to your TV",
+        "rating": 2.4,
+        "price": 4554.88,
+        "review": 755654,
+        "Category": "Electronics"
+    },
+    {
+        "key": 9,
+        "title": "Nintendo Switch Pro Controller",
+        "img": "https://i.ibb.co/BcnW8jT/61drpi3c-YUL-SL1258.jpg",
+        "description": "Take your game sessions up a notch with the Nintendo Switch Pro Controller Handheld Nintendo Switch gaming at a great price Comes with charging cable (USB C to USB A)",
+        "rating": 5,
+        "price": 59.99,
+        "review": 765676,
+        "Category": "Electronics"
+    },
+    {
+        "key": 10,
+        "title": "iPhone Charger, TAKAGI Lightning Cable",
+        "img": "https://i.ibb.co/RNjP9qW/71m-Es-CA2a-L-SL1500.jpg",
+        "description": "DURABLE MATERIAL: Phone cable With 8000+times bend lifespan and integrated molding process, the nylon braided jacket is super smooth and comfortable,more durable than standard Phone charger cord. PERFECT LENGTHS: Perfect 6feet extra long phone charger cable free up your charging time, no more being stuck to wall socket, ideal for using at home, in car and office. QUALITY COPPER WIRE: Connects to your Phone, Pad with Connector charges/syncs by connecting the USB connector into wall charger or computer. Enjoy charge times up faster than than most standard cables 2 N 1 FUNCTION: Great performance ensures your devices syncs and charge simultaneously with up to 480 mb/s . It syncs photos, music, videos, files with the ability to charge the device. also delivers up to 2.1A current to maximize the charging efficiency performance UNIVERSAL COMPATIBILITY: Work with iPhone 13 12 11, 13 12 11 Pro, 13 12 11 Pro Max,13 12 Mini, XS Max, XS, XR, X, 8 Plus, 8, 7 Plus, 7, 6S Plus, 6S, 6 Plus, 6, 5S, 5C, 5, iPad Pro, iPad Air, Air 2, iPad mini, mini 2, mini 4, iPad 4th gen ,iPod Touch 5th gen, iPod nano 7th gen and Beats Pill+",
+        "rating": 5,
+        "price": 99.99,
+        "review":75758 ,
+        "Category": "Electronics"
+    },
+    {
+        "key": 11,
+        "title": "SAMSUNG 970 EVO Plus SSD 2TB - M.2 NVMe Interface Internal Solid State Drive",
+        "img": "https://i.ibb.co/6nXxwCF/813bvfaxu-AL-AC-SL1500.jpg",
+        "description": "INNOVATIVE V-NAND TECHNOLOGY: Powered by Samsung V-NAND Technology, the 970 EVO Plus SSD’s NVMe interface (PCIe Gen 3.0 x4 NVMe 1.3) offers enhanced bandwidth, low latency, and power efficiency ideal for tech enthusiasts, high end gamers, and 4K & 3D content designers BREAKTHROUGH READ WRITE SPEEDS: Sequential read and write performance levels of up to 3,500MB s and 3,300MB s, respectively; Random Read (4KB, QD32): Up to 600,000 IOPS Random Read PERFORMANCE OPTIMIZATION AND DATA SECURITY: Seamless cloning and file transfers with Samsung Magician Software, the ideal SSD management solution for performance optimization and data security with automatic firmware updates SUPERIOR HEAT DISSIPATION: Samsung’s Dynamic Thermal Guard automatically monitors and maintains optimal operating temperatures to minimize performance drops 5-YEAR LIMITED WARRANTY: 5-year limited warranty or 600 TBW (Terabytes Written) ",
+        "rating": 4.5,
+        "price": 4352.25,
+        "review": 3433443,
+        "Category": "Electronics"
+    },
+    {
+        "key": 12,
+        "title": "JBL FLIP 4 - Waterproof Portable Bluetooth Speaker",
+        "img": "https://i.ibb.co/4Pxh2HK/61d5-F64-UDp-L-AC-SL1200.jpg",
+        "description": "Wirelessly connect up to 2 smartphones or tablets to the speaker and take turns playing impressive stereo sound Built-in 3000mAh rechargeable li-ion battery Supports up to 12 hours of playtime Ipx7 waterproof means no more worrying about rain or spills; you can even submerge flip 4 in water JBL connect+ allows you to Link more than 100 JBL connect+ enabled speakers together to amplify the party Dual external passive radiators demonstrate just how powerful your speaker is",
+        "rating": 3.5,
+        "price":525.15 ,
+        "review": 456346,
+        "Category": "Electronics"
+    },
+    {
+        "key": ,
+        "title": "",
+        "img": "",
+        "description": "",
+        "rating": 5,
+        "price": ,
+        "review": ,
+        "Category": ""
+    }
+]
