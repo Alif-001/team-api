@@ -4,7 +4,7 @@
         "key": 1,
         "title": "Oculus Quest",
         "img": "https://i.ibb.co/xzQ1J1Y/615-Ya-Ai-A-ML-SL1500.jpg",
-        "description": "Next-level Hardware - Make every move count with a blazing-fast processor and our highest-resolution display All-In-One Gaming - With backward compatibility, you can explore new titles and old favorites in the expansive Quest content library Immersive Entertainment - Get the best seat in the house to live concerts, groundbreaking films, exclusive events and more Easy Setup - Just open the box, set up with the smartphone app and jump into VR. No PC or console needed. Requires wireless internet access and the Oculus app (free download) to set up device",
+        "description": "Next-level Hardware - Make every move count with a blazing-fast processor and our highest-resolution display All-In-One Gaming - With backward compatibility, you can explore new titles and old favorites in the expansive Quest content library Immersive Entertainment - Get the best seat in the house to live concerts, groundbreaking films, exclusive events and more Easy Setup - Just open the box, set up with the smartphone app and jump into VR. No PC or console needed. Requires wireless internet access and the Oculus app (free download) to set up device.",
         "rating": 5,
         "price": 2525.67,
         "review": 25453633,
@@ -14,10 +14,10 @@
         "key": 2,
         "title": "Apple AirPods",
         "img": "https://i.ibb.co/xzQ1J1Y/615-Ya-Ai-A-ML-SL1500.jpghttps://i.ibb.co/jDxYvfx/7120-Gg-UKj3-L-AC-SL1500.jpg",
-        "description": "Quick access to Siri by saying  Hey Siri. More than 24 hours total listening time with the Charging Case Effortless setup, in-ear detection, and automatic switching for a magical experience Easily share audio between two sets of AirPods on your iPhone, iPad, iPod touch, or Apple TV ",
+        "description": "Quick access to Siri by saying  Hey Siri. More than 24 hours total listening time with the Charging Case Effortless setup, in-ear detection, and automatic switching for a magical experience Easily share audio between two sets of AirPods on your iPhone, iPad, iPod touch, or Apple TV.",
         "rating": 2.5,
         "price": 999.35,
-        "review":34536546 ,
+        "review": 34536546,
         "Category": "Electronics"
     },
     {
@@ -26,8 +26,8 @@
         "img": "https://i.ibb.co/PCznxfq/41-S3-MKU9-Tj-L-AC-SL1024.jpg",
         "description": "Compatible with iPad mini (6th generation), iPad Air (4th generation), iPad Pro 12.9-inch (3rd, 4th, and 5th generations), iPad Pro 11-inch (1st, 2nd, and 3rd generations) .Apple Pencil (2nd generation) brings your work to life. With imperceptible lag, pixel-perfect precision, and tilt and pressure sensitivity, it transforms into your favorite creative instrument, your paint brush, your charcoal, or your pencil. It makes painting, sketching, doodling, and even note-taking better than ever. It magnetically attaches to iPad mini (6th generation), iPad Pro and iPad Air, charges wirelessly, and lets you change tools with a simple double tap.",
         "rating": 1.5,
-        "price": 2345.99,
-        "review":2542534 ,
+        "price": 245.99,
+        "review": 2542534,
         "Category": "Electronics"
     },
     {
@@ -44,29 +44,29 @@
         "key": 5,
         "title": "Seagate Portable 2TB External Hard Drive Portable HDD",
         "img": "https://i.ibb.co/LQqzWYz/81tj-Lks-Kix-L-AC-SL1500.jpg",
-        "description": "Easily store and access 2TB to content on the go with the Seagate Portable Drive, a USB external hard drive Designed to work with Windows or Mac computers, this external hard drive makes backup a snap just drag and drop To get set up, connect the portable hard drive to a computer for automatic recognition no software required This USB drive provides plug and play simplicity with the included 18 inch USB 3.0 cable",
+        "description": "Easily store and access 2TB to content on the go with the Seagate Portable Drive, a USB external hard drive Designed to work with Windows or Mac computers, this external hard drive makes backup a snap just drag and drop To get set up, connect the portable hard drive to a computer for automatic recognition no software required This USB drive provides plug and play simplicity with the included 18 inch USB 3.0 cable.",
         "rating": 2.6,
-        "price": 4446.44,
-        "review":646533 ,
+        "price": 446.44,
+        "review": 646533,
         "Category": "Electronics"
     },
     {
         "key": 6,
         "title": "Beats Studio Buds – True Wireless Noise Cancelling Earbuds",
         "img": "https://i.ibb.co/qnNqxsN/51b-RSWr-Ec7-S-AC-SL1500.jpg",
-        "description": "Custom acoustic platform delivers powerful, balanced sound Control your sound with two distinct listening modes: Active Noise Cancelling (ANC) and Transparency mode Three soft eartip sizes for a stable and comfortable fit while ensuring an optimal acoustic seal Up to 8 hours of listening time (up to 24 hours combined with pocket-sized charging case) Industry-leading Class 1 Bluetooth for extended range and fewer dropouts High-quality call performance and voice assistant interaction via built-in microphones IPX4-rated sweat and water resistant wireless earbuds Beats wireless headphones and earphones are compatible with Apple and Android devices What’s in the Box – Beats Studio Buds True Wireless Noise Cancelling Earphones, charging case, eartips with three size options, USB-C to USB-C charging cable, Quick Start Guide, Warranty card (USB-C power adapter sold separately)",
+        "description": "Custom acoustic platform delivers powerful, balanced sound Control your sound with two distinct listening modes: Active Noise Cancelling (ANC) and Transparency mode Three soft eartip sizes for a stable and comfortable fit while ensuring an optimal acoustic seal Up to 8 hours of listening time (up to 24 hours combined with pocket-sized charging case) Industry-leading Class 1 Bluetooth for extended range and fewer dropouts High-quality call performance and voice assistant interaction via built-in microphones IPX4-rated sweat and water resistant wireless earbuds Beats wireless headphones and earphones are compatible with Apple and Android devices What’s in the Box – Beats Studio Buds True Wireless Noise Cancelling Earphones, charging case, eartips with three size options, USB-C to USB-C charging cable, Quick Start Guide, Warranty card (USB-C power adapter sold separately).",
         "rating": 3.3,
         "price": 453.44,
-        "review":34533 ,
+        "review": 34533,
         "Category": "Electronics"
     },
     {
         "key": 7,
         "title": "Nintendo Switch",
         "img": "https://i.ibb.co/bm9s5Lk/61-Pbl-Ynts-L-AC-SL1500.jpg",
-        "description": "3 Play Styles: TV Mode, Tabletop Mode, Handheld Mode 6.2-inch, multi-touch capacitive touch screen 4.5-9+ Hours of Battery Life will vary depending on software usage conditions Connects over Wi-Fi for multiplayer gaming; Up to 8 consoles can be connected for local wireless multiplayer Model number: HAC-001(-01)",
+        "description": "3 Play Styles: TV Mode, Tabletop Mode, Handheld Mode 6.2-inch, multi-touch capacitive touch screen 4.5-9+ Hours of Battery Life will vary depending on software usage conditions Connects over Wi-Fi for multiplayer gaming; Up to 8 consoles can be connected for local wireless multiplayer Model number: HAC-001(-01).",
         "rating": 4.5,
-        "price": 6454.56,
+        "price": 644.56,
         "review": 875564,
         "Category": "Electronics"
     },
@@ -74,9 +74,9 @@
         "key": 8,
         "title": "Roku Express",
         "img": "https://i.ibb.co/VYFnr4d/71-E4-Inwfc-PL-AC-SL1500.jpg",
-        "description": "Brilliant 4K picture quality: Stream in HD, 4K, and HDR with sharp resolution and vivid color optimized for your TV Smooth wireless streaming: Now featuring dual-band wireless, enjoy a smooth streaming experience with faster wireless performance, even with multiple devices connected to your network No more juggling remotes: Power up your TV, adjust the volume, mute, and control your Roku device all with one remote Convenient voice control: Use your voice to quickly search across channels, turn captions on, and more in a touch Upgrade to Roku streaming: All of your favorite channels, like HBO Max, Netflix, and Prime Video, are front and center on the customizable home screen, plus your device is always getting better with automatic updates Simple setup: It’s easy to get started with everything you need included in the box, including a Premium HDMI Cable—just plug it in and connect to the internet Save money, stream big: Watch what you love, including a massive selection of free and live TV, including 200+ Live TV channels free on The Roku Channel—it’s great for streaming TV and cutting cable Works with popular voice assistants: Enjoy easy voice control with Siri, Alexa, or Hey Google Share it with Apple AirPlay: Effortlessly share videos, photos, music, and more from your Apple devices to your TV",
+        "description": "Brilliant 4K picture quality: Stream in HD, 4K, and HDR with sharp resolution and vivid color optimized for your TV Smooth wireless streaming: Now featuring dual-band wireless, enjoy a smooth streaming experience with faster wireless performance, even with multiple devices connected to your network No more juggling remotes: Power up your TV, adjust the volume, mute, and control your Roku device all with one remote Convenient voice control: Use your voice to quickly search across channels, turn captions on, and more in a touch Upgrade to Roku streaming: All of your favorite channels, like HBO Max, Netflix, and Prime Video, are front and center on the customizable home screen, plus your device is always getting better with automatic updates Simple setup: It’s easy to get started with everything you need included in the box, including a Premium HDMI Cable—just plug it in and connect to the internet Save money, stream big: Watch what you love, including a massive selection of free and live TV, including 200+ Live TV channels free on The Roku Channel—it’s great for streaming TV and cutting cable Works with popular voice assistants: Enjoy easy voice control with Siri, Alexa, or Hey Google Share it with Apple AirPlay: Effortlessly share videos, photos, music, and more from your Apple devices to your TV.",
         "rating": 2.4,
-        "price": 4554.88,
+        "price": 455.88,
         "review": 755654,
         "Category": "Electronics"
     },
@@ -84,7 +84,7 @@
         "key": 9,
         "title": "Nintendo Switch Pro Controller",
         "img": "https://i.ibb.co/BcnW8jT/61drpi3c-YUL-SL1258.jpg",
-        "description": "Take your game sessions up a notch with the Nintendo Switch Pro Controller Handheld Nintendo Switch gaming at a great price Comes with charging cable (USB C to USB A)",
+        "description": "Take your game sessions up a notch with the Nintendo Switch Pro Controller Handheld Nintendo Switch gaming at a great price Comes with charging cable (USB C to USB A).",
         "rating": 5,
         "price": 59.99,
         "review": 765676,
@@ -94,19 +94,19 @@
         "key": 10,
         "title": "iPhone Charger, TAKAGI Lightning Cable",
         "img": "https://i.ibb.co/RNjP9qW/71m-Es-CA2a-L-SL1500.jpg",
-        "description": "DURABLE MATERIAL: Phone cable With 8000+times bend lifespan and integrated molding process, the nylon braided jacket is super smooth and comfortable,more durable than standard Phone charger cord. PERFECT LENGTHS: Perfect 6feet extra long phone charger cable free up your charging time, no more being stuck to wall socket, ideal for using at home, in car and office. QUALITY COPPER WIRE: Connects to your Phone, Pad with Connector charges/syncs by connecting the USB connector into wall charger or computer. Enjoy charge times up faster than than most standard cables 2 N 1 FUNCTION: Great performance ensures your devices syncs and charge simultaneously with up to 480 mb/s . It syncs photos, music, videos, files with the ability to charge the device. also delivers up to 2.1A current to maximize the charging efficiency performance UNIVERSAL COMPATIBILITY: Work with iPhone 13 12 11, 13 12 11 Pro, 13 12 11 Pro Max,13 12 Mini, XS Max, XS, XR, X, 8 Plus, 8, 7 Plus, 7, 6S Plus, 6S, 6 Plus, 6, 5S, 5C, 5, iPad Pro, iPad Air, Air 2, iPad mini, mini 2, mini 4, iPad 4th gen ,iPod Touch 5th gen, iPod nano 7th gen and Beats Pill+",
+        "description": "DURABLE MATERIAL: Phone cable With 8000+times bend lifespan and integrated molding process, the nylon braided jacket is super smooth and comfortable,more durable than standard Phone charger cord. PERFECT LENGTHS: Perfect 6feet extra long phone charger cable free up your charging time, no more being stuck to wall socket, ideal for using at home, in car and office. QUALITY COPPER WIRE: Connects to your Phone, Pad with Connector charges/syncs by connecting the USB connector into wall charger or computer. Enjoy charge times up faster than than most standard cables 2 N 1 FUNCTION: Great performance ensures your devices syncs and charge simultaneously with up to 480 mb/s . It syncs photos, music, videos, files with the ability to charge the device. also delivers up to 2.1A current to maximize the charging efficiency performance UNIVERSAL COMPATIBILITY: Work with iPhone 13 12 11, 13 12 11 Pro, 13 12 11 Pro Max,13 12 Mini, XS Max, XS, XR, X, 8 Plus, 8, 7 Plus, 7, 6S Plus, 6S, 6 Plus, 6, 5S, 5C, 5, iPad Pro, iPad Air, Air 2, iPad mini, mini 2, mini 4, iPad 4th gen ,iPod Touch 5th gen, iPod nano 7th gen and Beats Pill+ .",
         "rating": 5,
         "price": 99.99,
-        "review":75758 ,
+        "review": 75758,
         "Category": "Electronics"
     },
     {
         "key": 11,
         "title": "SAMSUNG 970 EVO Plus SSD 2TB - M.2 NVMe Interface Internal Solid State Drive",
         "img": "https://i.ibb.co/6nXxwCF/813bvfaxu-AL-AC-SL1500.jpg",
-        "description": "INNOVATIVE V-NAND TECHNOLOGY: Powered by Samsung V-NAND Technology, the 970 EVO Plus SSD’s NVMe interface (PCIe Gen 3.0 x4 NVMe 1.3) offers enhanced bandwidth, low latency, and power efficiency ideal for tech enthusiasts, high end gamers, and 4K & 3D content designers BREAKTHROUGH READ WRITE SPEEDS: Sequential read and write performance levels of up to 3,500MB s and 3,300MB s, respectively; Random Read (4KB, QD32): Up to 600,000 IOPS Random Read PERFORMANCE OPTIMIZATION AND DATA SECURITY: Seamless cloning and file transfers with Samsung Magician Software, the ideal SSD management solution for performance optimization and data security with automatic firmware updates SUPERIOR HEAT DISSIPATION: Samsung’s Dynamic Thermal Guard automatically monitors and maintains optimal operating temperatures to minimize performance drops 5-YEAR LIMITED WARRANTY: 5-year limited warranty or 600 TBW (Terabytes Written) ",
+        "description": "INNOVATIVE V-NAND TECHNOLOGY: Powered by Samsung V-NAND Technology, the 970 EVO Plus SSD’s NVMe interface (PCIe Gen 3.0 x4 NVMe 1.3) offers enhanced bandwidth, low latency, and power efficiency ideal for tech enthusiasts, high end gamers, and 4K & 3D content designers BREAKTHROUGH READ WRITE SPEEDS: Sequential read and write performance levels of up to 3,500MB s and 3,300MB s, respectively; Random Read (4KB, QD32): Up to 600,000 IOPS Random Read PERFORMANCE OPTIMIZATION AND DATA SECURITY: Seamless cloning and file transfers with Samsung Magician Software, the ideal SSD management solution for performance optimization and data security with automatic firmware updates SUPERIOR HEAT DISSIPATION: Samsung’s Dynamic Thermal Guard automatically monitors and maintains optimal operating temperatures to minimize performance drops 5-YEAR LIMITED WARRANTY: 5-year limited warranty or 600 TBW (Terabytes Written).",
         "rating": 4.5,
-        "price": 4352.25,
+        "price": 452.25,
         "review": 3433443,
         "Category": "Electronics"
     },
@@ -114,11 +114,151 @@
         "key": 12,
         "title": "JBL FLIP 4 - Waterproof Portable Bluetooth Speaker",
         "img": "https://i.ibb.co/4Pxh2HK/61d5-F64-UDp-L-AC-SL1200.jpg",
-        "description": "Wirelessly connect up to 2 smartphones or tablets to the speaker and take turns playing impressive stereo sound Built-in 3000mAh rechargeable li-ion battery Supports up to 12 hours of playtime Ipx7 waterproof means no more worrying about rain or spills; you can even submerge flip 4 in water JBL connect+ allows you to Link more than 100 JBL connect+ enabled speakers together to amplify the party Dual external passive radiators demonstrate just how powerful your speaker is",
+        "description": "Wirelessly connect up to 2 smartphones or tablets to the speaker and take turns playing impressive stereo sound Built-in 3000mAh rechargeable li-ion battery Supports up to 12 hours of playtime Ipx7 waterproof means no more worrying about rain or spills; you can even submerge flip 4 in water JBL connect+ allows you to Link more than 100 JBL connect+ enabled speakers together to amplify the party Dual external passive radiators.",
         "rating": 3.5,
-        "price":525.15 ,
+        "price": 525.15,
         "review": 456346,
         "Category": "Electronics"
+    },
+    {
+        "key": 13,
+        "title": "Acer Nitro 5 AN515-55-53E5 Gaming Laptop",
+        "img": "https://i.ibb.co/pR38Sz2/71m03-KIt-MZL-AC-SL1500.jpg",
+        "description": "Dominate the Game: With the 10th Gen Intel Core i5-10300H processor, your Nitro 5 is packed with incredible power for all your games RTX, It's On: The latest NVIDIA GeForce RTX 3050 (4GB dedicated GDDR6 VRAM) is powered by award-winning architecture with new Ray Tracing Cores, Tensor Cores, and streaming multiprocessors support DirectX 12 Ultimate for the ultimate gaming performance Visual Intensity: Explore game worlds in Full HD detail on the 15.6 widescreen LED-backlit IPS display with 1920 x 1080 resolution, 144Hz refresh rate and 80% screen-to-body, 16:9 aspect ratio Internal Specifications: 8GB DDR4 2933MHz Memory (2 DDR4 Slots Total, Maximum 32GB); 256GB NVMe SSD (2 x PCIe M.2 Slots, 1 x 2.5 Hard Drive Bay Available) Prioritize Your Gameplay: Killer Ethernet E2600 and Intel Wi-Fi 6 AX201 gives you an edge online by taking control of your network and prioritizing your gameplay Stay Cool Under Pressure: When heavy use requires an added boost, Acer CoolBoost technology increases fan speed by 10% and CPU, GPU cooling by 9% compared to auto mode, overall increasing thermal performance by 25% for better gaming comfort Take Control of Your Gaming Laptop: The NitroSense UI can be called up with the dedicated keyboard button so you can instantly visualize your PC's component temperature, fan speed, loading performance, power plan, and more.",
+        "rating": 5,
+        "price": 799.58,
+        "review": 4567865,
+        "Category": "Computers"
+    },
+    {
+        "key": 14,
+        "title": "HP 15-inch Laptop",
+        "img": "https://i.ibb.co/gy1ZYGy/81-I64-Ptcd2-L-AC-SL1500.jpg",
+        "description": "TAKE IT ANYWHERE – With its thin and light design, 6.5 millimeter micro-edge bezel display, and 82% screen to body ratio, you can take this PC anywhere and see more of what you love (1). REVOLUTIONARY ENTERTAINMENT – Enjoy ultra-wide viewing angles and seamlessly perform multi-monitor set-ups with a 15.6-inch, Full HD, IPS, micro-edge, and anti-glare display (2). IMPESSIVE GRAPHICS – The Intel Iris Xe Graphics gives you a new level of performance with crisp, stunning visuals, plus the convenience of a thin and light laptop (3). UNSTOPPABLE PERFORMANCE – Get things done fast with the 11th Generation Intel Core i5-1135G7 processor, which delivers instant responsiveness and best-in-class connectivity (4). MEMORY AND STORAGE – Get up to 15x faster performance than a traditional hard drive with 256 GB PCIe NVMe M.2 SSD storage and experience improved multitasking with higher bandwidth thanks to 8 GB of RAM (5). WORK ON THE GO – Get work done on the go with a long battery life of up to 7 hours and 15 minutes (6), while HP Fast Charge lets you go from 0 to 50% charge in approximately 45 minutes (7). OS AND WARRANTY – Do more with greater peace of mind thanks to the familiar feel of the Windows 11 Home operating system and the HP 1-year limited hardware warranty (8).",
+        "rating": 5,
+        "price": 578.55,
+        "review": 345678,
+        "Category": "Computers"
+    },
+    {
+        "key": 15,
+        "title": "Lenovo IdeaPad 3 Laptop,",
+        "img": "https://i.ibb.co/w7tWVVP/71e-LIu-Dm-Ig-L-AC-SL1500.jpg",
+        "description": "Powerhouse performance from AMD Ryzen 5 5500U mobile processor, 8GB DDR4 RAM, 256GB SSD storage, and AMD Radeon 7 Graphics The IdeaPad 3 14-inch laptop has 4-side narrow bezels that let you see more of the FHD (1920 x 1080) screen for wider viewing angles and less clutter Quieter and cooler with intelligent thermals, plus you can calibrate performance with Q-control, with 3 modes to match your performance needs Protect your webcam lens and guarantee your privacy with the built-in privacy shutter WiFi 6 (2x2 802.11 ax) and Bluetooth 5.0 connectivity, plus USB, USB-C, and HDMI ports.",
+        "rating": 3.5,
+        "price": 535.55,
+        "review": 46745125,
+        "Category": "Computers"
+    },
+    {
+        "key": 16,
+        "title": "Lenovo IdeaCentre AIO 3 AMD All-in-One Computer",
+        "img": "https://i.ibb.co/JdSk1MZ/71-PGZc-Jol8-L-AC-SL1500.jpg",
+        "description": "This space-saving AIO PC hides raw, unfiltered power - with an AMD Ryzen 5 55000U processor, the IdeaCentre AIO 3 thrives under heavy performance loads We designed the slim and compact all-in-one computer for ease and convenience with fewer cables and clutter, a dock for your cell phone, plus instant privacy and instant login features for better security; wireless keyboard and mouse included View more of the screen with this AIO computer's three-sided narrow bezel FHD display for vibrant colors with crystal-clear quality from almost any angle; plus, the IdeaCentre AIO 3 streams high-octane, sharply etched audio over its two 3W stereo speakers certified by Harman Kardon The hidden camera on the top of the AIO 3 offers up to 5M clarity, enhancing authenticity during your video chatting or conferencing – push the webcam down for extra security Connect with two USB 2.0 ports and two USB 3.2 Gen 2 Type-A ports, one 1000 LAN, one microphone/earphone combo, one Power DC Jack and one HDMI-out.",
+        "rating": 4.6,
+        "price": 780.55,
+        "review": 3656757,
+        "Category": "Computers"
+    },
+    {
+        "key": 17,
+        "title": "Dell Inspiron 7700 AIO Desktop",
+        "img": "https://i.ibb.co/19XYnC5/71f-PWl-RTs5-L-AC-SL1500.jpg",
+        "description": "27-inch FHD (1920 x 1080) Infinity Touch Display 11th Generation Intel Core i7-1165G7 Processor (12MB Cache, up to 4.7 GHz) 12GB 2666MHz DDR4 , 256 GB M.2 PCIe NVMe SSD Boot and 1 TB 5400 RPM SATA HDD Storage Intel Iris Xe Graphics with shared graphics memory Intel Wi-Fi 6 2x2 (Gig plus) and Bluetooth 5.0.",
+        "rating": 5,
+        "price": 1752.55,
+        "review": 4567887,
+        "Category": "Computers"
+    },
+    {
+        "key": 18,
+        "title": "HP 27 Pavilion All-in-One PC",
+        "img": "https://i.ibb.co/L6pzDP8/91om-Rb-Bxt-HS-AC-SL1500.jpg",
+        "description": "POWER MEETS PERFORMANCE – Leading-edge performance and cutting-edge style give this All-in-One PC the means to tackle demanding projects and enjoy movie marathons, all while looking good anywhere you put it THEATER-WORTHY – Enjoy jaw-dropping detail and incredible sound with audio by B&O and Full HD resolution LATEST PROCESSOR – Everything you do feels fast and easy with a 10th Generation Intel Core i7-10700T processor with an Intel turbo boost of up to 4.5 GHz MODERN GRAPHICS – It’s smooth streaming for all your 4k content and favorite games with the Intel UHD Graphics 630 card DUAL STORAGE OPTIONS – Boot up in seconds and store more of what you love with HDD and SSD dual storage options with up to 512 GB SSD and 1TB HDD PLENTY OF RAM – Boost your efficiency as you browse, create, and multitask faster than ever with 16 GB of RAM WINDOWS 10 AND WARRANTY – Do great things with a desktop equipped with Windows 10, tested over 230 individual times, and backed by a 1-year limited hardware warranty.",
+        "rating": 5,
+        "price": 1533.55,
+        "review": 567897,
+        "Category": "Computers"
+    },
+    {
+        "key": 19,
+        "title": "SkyTech Blaze II Gaming Computer PC Desktop",
+        "img": "https://i.ibb.co/6w1twXR/81u-K-g-Do-i-L-AC-SL1500.jpg",
+        "description": "1 Year Warranty on Parts & Labor | Lifetime Tech Support | Assembled in USA | This powerful gaming PC is capable of running all your favorite games such as Call of Duty Warzone, Fornite, Escape from Tarkov, Grand Theft Auto V, World of Warcraft, League of Legends, Apex Legends, Roblox, PLAYERUNKNOWN’s Battlegrounds, Overwatch, Counter-Strike: Global Offensive, Battlefield V, Minecraft, The Division 2, and more at High to Ultra settings, crisp 1080p FHD resolution, and smooth 60+ FPS gameplay.",
+        "rating": 5,
+        "price": 1555.55,
+        "review": 54856153,
+        "Category": "Computers"
+    },
+    {
+        "key": 20,
+        "title": "HP Pavilion Gaming Desktop",
+        "img": "https://i.ibb.co/dgBYrmv/81li-WNg7-Jz-L-AC-SL1500.jpg",
+        "description": "FREE UPGRADE TO WINDOWS 11 (1) (when available, see below) CUSTOMIZABLE AND COMPACT – This sleek, space-saving tower allows you to expand and upgrade with customizable LED lights and system optimization in the OMEN Command Center 4K READY – Outstanding performance and immersive multimedia entertainment with 4K visuals courtesy of the 10th Generation IntelⓇ Core i3-10100 processor STUNNING GRAPHICS – With the all-new NVIDIA Turing architecture and 4 GB GDDR6 dedicated memory, you’ll boost your creative and gaming experience with real-time ray tracing and fast performance from the NVIDIAⓇ GeForceⓇ GTX 1650 SUPER graphics card DDR4 MEMORY – With 8 GB of RAM, everything from browsing multiple web pages to playing games gets a performance boost PLENTY OF STORAGE – Get up to 10x faster performance than a traditional hard drive with 256 GB of PCIe NVMe M.2 Solid State Drive storage PC GAMING CONNECTIVITY – Enjoy rock-solid connections with the latest Wi-Fi 5 (1x1) WLAN adapter and Bluetooth 4.2 as well as reliable external ports in the Headphone/Microphone combo, 5.1 surround sound, and SuperSpeed USB Type-A and Type-C ports; this pc is perfect for dual display support.",
+        "rating": 3,
+        "price": 1065.25,
+        "review": 89765432,
+        "Category": "Computers"
+    },
+    {
+        "key": 21,
+        "title": "Alienware Aurora R10 Gaming Desktop",
+        "img": "https://i.ibb.co/27Dx4MF/6102k-Y3-HGv-S-AC-SL1500.jpg",
+        "description": "AMD Ryzen 9 5900 (12-Core, 70MB Total Cache, Max Boost Clock of 4.7GHz) 32GB 3400MHz DDR4 XMP HyperX FURY Dual Channel up to 128GB (additional memory sold separately); 2TB M.2 PCIe NVMe Solid State Drive (Boot) + 2TB 7200 RPM SATA Hard Drive 6Gb/s (Storage) AMD Radeon RX 6800 XT, 16GB GDDR6 Killer Wi-Fi 6 AX1650 (2x2) + Bluetooth 5.1 .",
+        "rating": 2.5,
+        "price": 1455.25,
+        "review": 845230,
+        "Category": "Computers"
+    },
+    {
+        "key": 22,
+        "title": "Skytech Chronos Gaming PC Desktop",
+        "img": "https://i.ibb.co/0mpsJ98/81bfl-RXo-Bg-L-AC-SL1500.jpg",
+        "description": "AMD Ryzen 5 5600X 3.7GHz (4.6GHz Max Boost) CPU Processor | 1 TB M.2 SSD – Up to 30x Faster Than Traditional HDD | 120mm AIO    NVIDIA GeForce GTX 3060 12GB GDDR6 Graphics Card (Brand May Varies) | 16G DDR4 3200 Gaming Memory with Heat Spreader | Windows 10 Home 64-bit    802.11AC | No Bloatware | Graphic output options include 1 x HDMI, and 1 x Display Port Guaranteed, Additional Ports may vary | USB Ports Including 2.0, 3.0, and 3.2 Gen1 Ports | HD Audio and Mic | Free Gaming Keyboard and Mouse    4 x RGB Fans for Maximum Cooling Performance | Powered by 80 Plus GOLD Certified 600 Watt Power Supply | 1 Year Warranty on Parts and Labor | Lifetime Free Technical Support | Assembled in the USA    This powerful gaming PC is capable of running all your favorite games such as Call of Duty Warzone, Fornite, Escape from Tarkov, Grand Theft Auto V, World of Warcraft, League of Legends, Apex Legends, Roblox, PLAYERUNKNOWN’s Battlegrounds, Overwatch, Counter-Strike: Global Offensive, Battlefield V, Minecraft, The Division 2, and more at High to Ultra settings, crisp 1080p FHD resolution and smooth 60+ FPS game play.",
+        "rating": 5,
+        "price": 1252.55,
+        "review": 84512545,
+        "Category": "Computers"
+    },
+    {
+        "key": 23,
+        "title": "SkyTech Archangel 3.0 Gaming Computer PC Desktop",
+        "img": "https://i.ibb.co/30XJwrw/81-KOEh2-NRVL-AC-SL1500.jpg",
+        "description": "AMD Ryzen 7 3700X 8-Core 16-Thread 3.6 GHz (4.4 GHz Max Boost) CPU | 1TB SSD – Up to 30x faster than traditional HDD    GeForce RTX 3060 12GB GDDR6 Graphics Card (Brand May Varies) | 16GB DDR4 3000MHz Gaming Memory with Heat Spreaders | Windows 10 Home 64-bit 802.11AC Wi-Fi | No Bloatware | 1 x DisplayPort 1.4, 1 x HDMI Guaranteed, additional ports may vary | HD Audio and Mic | Free Gaming Keyboard and Mouse | Minimum 6 x USB Ports including USB 2.0, 3.0, or higher    3 x RGB RING Fans for Maximum Air Flow | Powered by 80 Plus Gold Certified 600 Watt Power Supply | Skytech Archangel Gaming Case with Tempered Glass - White | 1 Year Warranty on Parts and Labor | Lifetime Free Technical Support | Assembled in the USA    This powerful gaming PC is capable of running all your favorite games such as Call of Duty Warzone, Fornite, Escape from Tarkov, Grand Theft Auto V, World of Warcraft, League of Legends, Apex Legends, Roblox, PLAYERUNKNOWN’s Battlegrounds, Overwatch, Counter-Strike: Global Offensive, Battlefield V, Minecraft, The Division 2, and more at High to Ultra settings, crisp 1440p Quad HD resolution and smooth 60+ FPS game play.",
+        "rating": 5,
+        "price":2055.52 ,
+        "review":9521125 ,
+        "Category": "Computers"
+    },
+    {
+        "key": 24,
+        "title": "CHUWI HeroBox Pro Mini PC",
+        "img": "",
+        "description": "",
+        "rating": 5,
+        "price": ,
+        "review": ,
+        "Category": "Computers"
+    },
+    {
+        "key": 25,
+        "title": "",
+        "img": "",
+        "description": "",
+        "rating": 5,
+        "price": ,
+        "review": ,
+        "Category": "Computers"
+    },
+    {
+        "key": 26,
+        "title": "",
+        "img": "",
+        "description": "",
+        "rating": 5,
+        "price": ,
+        "review": ,
+        "Category": "Computers"
     },
     {
         "key": ,
@@ -129,5 +269,5 @@
         "price": ,
         "review": ,
         "Category": ""
-    }
+    },
 ]
